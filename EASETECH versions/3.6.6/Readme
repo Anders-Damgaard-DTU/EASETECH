@@ -1,1 +1,10 @@
-##This new version includes an option to clear all non-used parameters from the parameter list. This means it will scan if the parameters is in use in the scenario, and if not it will remove the parameter
+##3.6.6.Relased for check, not official release.   
+This new version includes an option to clear all non-used parameters from the parameter list. This means it will scan if the parameters is in use in the scenario, and if not it will remove the parameter
+
+##3.6.5 Relased for check, not official release.
+This new version includes
+Copying and pasting into the Material Fractions catalogue, when you have data in the reference column. This gave errors before.
+ 
+
+##3.6.4 Official Release, meaning checked by Anders Damgaard
+##This release includes the option to have import a parameter list, where the user can make a checkmark that it should be included in a MonteCarlo/Perturbation analysis. To get a tick mark add a TRUE in the fourth column imported from excel. So for example as written in brackets here [Y; 1; ND(1,0.02); TRUE]. I suggest always copying from Excel as that seems most solid.
