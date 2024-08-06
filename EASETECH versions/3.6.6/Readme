@@ -1,0 +1,1 @@
+##This new version includes an option to clear all non-used parameters from the parameter list. This means it will scan if the parameters is in use in the scenario, and if not it will remove the parameter
